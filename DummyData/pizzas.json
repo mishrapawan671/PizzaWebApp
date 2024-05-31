@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Achari do Pyaza",
+    "price": 10,
+    "quantity": 10,
+    "img": "1716442912189-328415931achari_do_pyaza.jpg"
+  },
+  {
+    "name": "Onion Paprika",
+    "price": 10,
+    "quantity": 10,
+    "img": "1716442959279-739190120BlazingOnionPaprikacartmenu.jpeg"
+  },
+  {
+    "name": "Fresh veggie",
+    "price": 10,
+    "quantity": 10,
+    "img": "1716443036137-221184113fresh_veggie.jpg"
+  },
+  {
+    "name": "Cheese-N-Corn",
+    "price": 1,
+    "quantity": 1,
+    "img": "1716443077231-578721293cheese_n_corn.jpg"
+  },
+  {
+    "name": "Farmhouse",
+    "price": 10,
+    "quantity": 10,
+    "img": "1716443131041-566637545farmhouse.png"
+  },
+  {
+    "name": "Cheese-Pepperoni",
+    "price": 10,
+    "quantity": 10,
+    "img": "1716443347377-7157219290ecfd107-5e1b-48d8-8210-2c17ff4185dd_cheesepepperoni.png"
+  },
+  {
+    "name": "Tandoori-Panner",
+    "price": 10,
+    "quantity": 10,
+    "img": "1716443427840-846131443TandooriPaneer.jpg"
+  }
+]

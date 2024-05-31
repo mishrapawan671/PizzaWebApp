@@ -1,0 +1,12 @@
+[
+  {
+    "username": "abc@gmail.com",
+    "password": "abc",
+    "role": "seller"
+  },
+  {
+    "username": "as@gmail.com",
+    "password": "456",
+    "role": "buyer"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "firstname": "Rahul",
+    "lastname": "kumar",
+    "email": "abc@gmail.com",
+    "age": 28,
+    "address": "delhi"
+  },
+  {
+    "firstname": "vikash",
+    "lastname": "singh",
+    "email": "as@gmail.com",
+    "age": 21,
+    "address": "delhi"
+  }
+]

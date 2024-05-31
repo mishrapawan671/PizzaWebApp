@@ -1,0 +1,178 @@
+[
+  {
+    "username": "PAWAN",
+    "address": "KOKAR",
+    "items": [
+      {
+        "name": "Margherita Pizza",
+        "count": 1,
+        "price": 9.99
+      }
+    ],
+    "totalBillAmount": 9.99
+  },
+  {
+    "username": "PAWAN",
+    "address": "KOKAR",
+    "items": [
+      {
+        "name": "Margherita Pizza",
+        "count": 1,
+        "price": 9.99
+      }
+    ],
+    "totalBillAmount": 9.99
+  },
+  {
+    "username": "PAWAN",
+    "address": "KOKAR",
+    "items": [
+      {
+        "name": "Margherita Pizza",
+        "count": 1,
+        "price": 9.99
+      }
+    ],
+    "totalBillAmount": 9.99
+  },
+  {
+    "username": "abc@gmail.com",
+    "address": "No Adress Please Add One",
+    "items": [
+      {
+        "name": "Fresh veggie",
+        "count": 1,
+        "price": 10
+      },
+      {
+        "name": "Cheese-N-Corn",
+        "count": 1,
+        "price": 1
+      },
+      {
+        "name": "Cheese-Pepperoni",
+        "count": 1,
+        "price": 10
+      },
+      {
+        "name": "Tandoori-Panner",
+        "count": 1,
+        "price": 10
+      }
+    ],
+    "totalBillAmount": 31,
+    "Status": "Accepted"
+  },
+  {
+    "username": "abc@gmail.com",
+    "address": "No Adress Please Add One",
+    "items": [
+      {
+        "name": "Fresh veggie",
+        "count": 1,
+        "price": 10
+      },
+      {
+        "name": "Cheese-N-Corn",
+        "count": 1,
+        "price": 1
+      },
+      {
+        "name": "Cheese-Pepperoni",
+        "count": 1,
+        "price": 10
+      },
+      {
+        "name": "Tandoori-Panner",
+        "count": 1,
+        "price": 10
+      }
+    ],
+    "totalBillAmount": 31,
+    "Status": "Pending"
+  },
+  {
+    "username": "abc@gmail.com",
+    "address": "No Adress Please Add One",
+    "items": [
+      {
+        "name": "Fresh veggie",
+        "count": 1,
+        "price": 10
+      },
+      {
+        "name": "Cheese-N-Corn",
+        "count": 1,
+        "price": 1
+      },
+      {
+        "name": "Cheese-Pepperoni",
+        "count": 1,
+        "price": 10
+      },
+      {
+        "name": "Tandoori-Panner",
+        "count": 1,
+        "price": 10
+      }
+    ],
+    "totalBillAmount": 31,
+    "Status": "Pending"
+  },
+  {
+    "username": "rahul@gmail.com",
+    "address": "No Adress Please Add One",
+    "items": [
+      {
+        "name": "Onion Paprika",
+        "count": 1,
+        "price": 10
+      },
+      {
+        "name": "Fresh veggie",
+        "count": 1,
+        "price": 10
+      },
+      {
+        "name": "Cheese-N-Corn",
+        "count": 1,
+        "price": 1
+      },
+      {
+        "name": "Achari do Pyaza",
+        "count": 1,
+        "price": 10
+      }
+    ],
+    "totalBillAmount": 31,
+    "Status": "Accepted"
+  },
+  {
+    "username": "rahul@gmail.com",
+    "address": "No Adress Please Add One",
+    "items": [
+      {
+        "name": "Onion Paprika",
+        "count": 1,
+        "price": 10
+      },
+      {
+        "name": "Fresh veggie",
+        "count": 1,
+        "price": 10
+      },
+      {
+        "name": "Cheese-N-Corn",
+        "count": 1,
+        "price": 1
+      },
+      {
+        "name": "Achari do Pyaza",
+        "count": 1,
+        "price": 10
+      }
+    ],
+    "totalBillAmount": 31,
+    "Status": "Accepted"
+  }
+]
